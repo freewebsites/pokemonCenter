@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
 
-    cout<<"Pokemon World"<<endl;
+    cout<<"Welcome to the Pokemon World"<<endl;
 }
